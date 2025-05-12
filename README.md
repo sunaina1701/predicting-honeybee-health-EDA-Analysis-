@@ -6,4 +6,4 @@ checkout the data provided below for reference purporse only.
 
 https://www.kaggle.com/datasets/jocelyndumlao/predicting-honeybee-health-from-hive-and-weather
 
-Download the data provided in the left side files section named as HCC_INSPECTION for accurate EDA analysis provided in "honeybees_(sunaina).ipynb"
+Download the data provided in the left side files section named as archive (1).zip >> {HCC_INSPECTION} for accurate EDA analysis provided in "honeybees_(sunaina).ipynb"
